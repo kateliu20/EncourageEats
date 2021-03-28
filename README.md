@@ -4,7 +4,7 @@ The inspiration for our Psych Hacks project stems from what we’ve seen online 
 
 Encourage Eats is a Discord chat bot that implements the Discord API and other database APIs to promote a positive mindset and body image. Users can implement this bot in their personal servers or message one-on-one. While talking to the bot, the user can have a conversation about their eating disorder, their fears of weight gain/negative body image, or anything else about their day. One of the features is that the bot will produce generated texts in response depending on keywords. For example, if the user types “i feel fat,” Encouraging Eats may send back “your body is beautiful.” These kinds of affirmations are designed to help the user feel more encouraged, and such words can actually restore a happier mood and boost self-confidence (Cascio et al.). 
 
-Code was also adapted from https://www.freecodecamp.org/news/create-a-discord-bot-with-python/ and the ZenQuotes.io API, Spoon API, and Github Public Repository Content were implemented into the code.
+Code was also adapted from https://www.freecodecamp.org/news/create-a-discord-bot-with-python/ and the ZenQuotes.io API, Spoon API, and Freelethics Github Public Repository Content were implemented into the code.
 
 References:
 Cascio, Christopher N, et al. “Self-Affirmation Activates Brain Systems Associated with Self-Related Processing and Reward and Is Reinforced by Future Orientation.” Social Cognitive and Affective Neuroscience, Oxford University Press, Apr. 2016, www.ncbi.nlm.nih.gov/pmc/articles/PMC4814782/. 
